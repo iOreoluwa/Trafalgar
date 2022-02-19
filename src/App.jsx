@@ -9,12 +9,16 @@ const App = () => {
 	return (
         <>
 		<Navbar />
+        <Header />
+        <hr className='horizontal-rule'/>
+        {/* <Header />
         <button className='button'>
             Click Me
         </button>
         <h1 className="title">
-            Hello World
+            Hello World 
         </h1>
+         */}
         </>
     )
 };
