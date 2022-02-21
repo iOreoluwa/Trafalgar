@@ -9,8 +9,8 @@ const App = () => {
 	return (
         <>
 		<Navbar />
-        <Header />
-        <hr className='horizontal-rule'/>
+        <Header />  
+        <Service />
         {/* <Header />
         <button className='button'>
             Click Me
