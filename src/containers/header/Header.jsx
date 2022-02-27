@@ -13,8 +13,9 @@ const Header = () => {
           </h1>
           {/* <hr className="horizontal-rule"/> */}
           <p className="text">
-            Trafalgar provides progressive, and affordable healthcare, accessible
-            on mobile and online for everyone  
+            Trafalgar provides progressive, and affordable 
+            healthcare, accessible on mobile and online
+            for everyone  
           </p>
           <button className="button_one">Consult today</button>
         </div>      
