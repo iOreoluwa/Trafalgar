@@ -42,7 +42,7 @@
 
 .service_grid {
     /* background-color: #000; */
-    position: absolute;
+    position: relative;
     top: 100px;
     display: grid;
     /* grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); */
@@ -139,7 +139,7 @@
     .service_grid {
         /* background-color: #000; */
         grid-template-columns: auto auto;
-        position: absolute;
+        position: relative;
         top: 100px;
         display: grid;
         flex-direction: row;
@@ -180,7 +180,7 @@
     .service_grid {
         grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
         /* background-color: #000; */
-        position: absolute;
+        position: relative;
         top: 100px;
         display: grid;
         flex-direction: row;
@@ -216,7 +216,7 @@
     .service_grid {
         grid-template-columns: auto;
         /* background-color: #000; */
-        position: absolute;
+        position: relative;
         top: 100px;
         display: grid;
         flex-direction: row;
