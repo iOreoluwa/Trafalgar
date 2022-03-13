@@ -28,9 +28,9 @@ const Service = () => {
       <div className='service_background'>
       <img src={service} alt="" className="service_background" />
       </div>
-      <div className="service_element">
+      {/* <div className="service_element">
       <img src={service_element} alt=""/>
-      </div>
+      </div> */}
         <div className="service_grid">
         <div className="card card1">
           <img src={search}  alt=""/> 
@@ -75,6 +75,9 @@ const Service = () => {
           </p>
         </div>
         </div>
+      </div>
+      <div className='center_button'>
+         <button className='button'>Learn More</button>
       </div>
     </div>
 
