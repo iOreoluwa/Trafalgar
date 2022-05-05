@@ -1,6 +1,6 @@
 import React from 'react';
 // import {Header, Footer, Blog, Download, Provider, Service, Testimonial, } from './containers';
-import {Header, Service, Provider, Download} from './containers';
+import {Header, Service, Provider, Download, Testimonial} from './containers';
 import {Navbar} from './components';
 import './App.css';
 // import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
@@ -14,6 +14,7 @@ const App = () => {
         <Service />
         <Provider />
         <Download />
+        <Testimonial />
         {/* <Header />
         <button className='button'>
             Click Me

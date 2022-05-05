@@ -73,6 +73,16 @@ body{
     margin-top: 50px;
 }
 
+.title_three{
+  font-family: "Mulish", serif;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 56px;
+  color: #ffffff;
+  margin-top: 50px;
+  text-align: center;
+}
+
 .text {
   color: #7D7987;
 }
@@ -84,6 +94,13 @@ body{
     border: 1px solid black;
     margin-top: 5px;
     border-radius: 50px;
+}
+
+.horizontal-rule-2 {
+  width: 50px;
+  border: 1px solid white;
+  margin-top: 5px;
+  border-radius: 50px;
 }
 
 

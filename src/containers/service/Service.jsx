@@ -7,7 +7,6 @@ import consultation from '../../assets/consultation.png'
 import details from '../../assets/details.png'
 import emergency from '../../assets/emergency.png'
 import tracking from '../../assets/tracking.png'
-import service_element from '../../assets/service_element.png'
 
 const Service = () => {
   return (
@@ -80,8 +79,6 @@ const Service = () => {
          <button className='button'>Learn More</button>
       </div>
     </div>
-
-    
   )
 }
 

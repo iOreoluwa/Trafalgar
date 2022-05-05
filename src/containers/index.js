@@ -5,3 +5,4 @@ export {default as Header} from './header/Header';
 export {default as Service} from './service/Service';
 export {default as Provider} from './provider/Provider';
 export {default as Download} from './download/Download';
+export {default as Testimonial} from './testimonial/Testimonial';
