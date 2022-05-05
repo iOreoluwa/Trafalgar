@@ -7,7 +7,6 @@ import consultation from '../../assets/consultation.png'
 import details from '../../assets/details.png'
 import emergency from '../../assets/emergency.png'
 import tracking from '../../assets/tracking.png'
-import service_element from '../../assets/service_element.png'
 
 const Service = () => {
   return (
@@ -28,9 +27,9 @@ const Service = () => {
       <div className='service_background'>
       <img src={service} alt="" className="service_background" />
       </div>
-      <div className="service_element">
+      {/* <div className="service_element">
       <img src={service_element} alt=""/>
-      </div>
+      </div> */}
         <div className="service_grid">
         <div className="card card1">
           <img src={search}  alt=""/> 
@@ -76,9 +75,10 @@ const Service = () => {
         </div>
         </div>
       </div>
+      <div className='center_button'>
+         <button className='button'>Learn More</button>
+      </div>
     </div>
-
-    
   )
 }
 
