@@ -13,7 +13,7 @@ const Testimonial = () => {
     </div>
     <div className="testimonial_content">
    
-    <div>
+    <div className='testimonial_image'>
         <img src={image_1} alt="" srcset="" className='testimonial_background' />
     </div>
     <div className="testimonial_name">
@@ -25,8 +25,8 @@ const Testimonial = () => {
       <div className="testimonial_text">
         <p className="text">
         “Our dedicated patient engagement app and 
-web portal allow you to access information instantaneously (no tedeous form, long calls, 
-or administrative hassle) and securely”
+        web portal allow you to access information instantaneously (no tedeous form, long calls, 
+        or administrative hassle) and securely”
         </p>
       </div>
     </div>
