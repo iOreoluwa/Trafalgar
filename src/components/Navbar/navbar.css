@@ -10,10 +10,12 @@
 
 .nav_logo {
     margin-right: 5rem;
+    display: flex;
+    flex:1;
 }
 
 .nav_logo img {
-    width: 160.56px;
+    width: 10rem;
     height: 41.02px;
 }
 .nav_items {
