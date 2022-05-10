@@ -30,9 +30,8 @@ const Blog = () => {
             In this case, the role of the health laboratory is very important to do
 a disease detection...
             </p>
-            <p>
-              Read More 
-              {/* <img src={arrow} className="arrow" alt="" /> */}
+            <p className="arrow">
+              Read More <img src={arrow} alt="" />
             </p>
           </div>
           <div className="card_2 card2">
@@ -41,6 +40,9 @@ a disease detection...
             <p>
             Herbal medicine is very widely used at this time because of its very good for your health...
             </p>
+            <p className="arrow">
+              Read More <img src={arrow} alt="" />
+            </p>
           </div>
           <div className="card_2 card3">
             <img src={blog_2} alt="" />
@@ -48,6 +50,9 @@ a disease detection...
             <p>
             A healthy lifestyle should start from now and also for your skin health.
 There are some...
+            </p>
+            <p className="arrow">
+              Read More <img src={arrow} alt="" />
             </p>
           </div>
         </div>

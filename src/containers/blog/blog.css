@@ -126,6 +126,10 @@
     height: 115px;
 }
 
+p.arrow{
+    color: #4089ED;
+}
+
 .arrow img{
     width: 14.14px;
     height: 9px;

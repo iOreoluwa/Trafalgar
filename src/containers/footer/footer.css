@@ -100,7 +100,7 @@
     .footer_content {
       /* background: #ddd; */
       display: flex;
-      flex-direction: column;
+      flex-direction: row;
       margin: 0 auto;
       padding: 2rem 1rem;
       text-align: center;
