@@ -17,13 +17,13 @@ const Testimonial = () => {
         <img src={image_1} alt="" srcset="" className='testimonial_background' />
     </div>
     <div className="testimonial_name">
-      <p>
+      <p className="testimonial-p">
       <h3>Edward Newgate</h3>
       <h4>Founder, Circle</h4>
       </p>
     </div>
       <div className="testimonial_text">
-        <p className="text">
+        <p className="text-two">
         “Our dedicated patient engagement app and 
         web portal allow you to access information instantaneously (no tedeous form, long calls, 
         or administrative hassle) and securely”
