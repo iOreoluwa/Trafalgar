@@ -4,6 +4,7 @@ import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
 import './navbar.css'
 import Logo from "../../assets/Logo.png"
 
+
 //fragments
 const Menu = () => (
   <>

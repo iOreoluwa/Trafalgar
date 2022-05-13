@@ -1,12 +1,12 @@
 import React from "react";
 import "./footer.css";
-import Logo from "../../assets/Logo.png";
+import logo_white from "../../assets/logo_white.png";
 
 const Footer = () => {
   return (
     <div className="footer">
       <div className="nav_logo">
-        <img src={Logo} alt="" srcset="" />
+        <img src={logo_white} alt="" srcset="" />
       </div>
       <div className="footer_content">
         <div className="footer_name">
