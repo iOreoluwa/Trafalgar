@@ -192,6 +192,7 @@
 @media screen and (max-width: 480px){
     .provider {
         flex-direction: column;
+        justify-content: center;
     }
 
     .provider_content {
