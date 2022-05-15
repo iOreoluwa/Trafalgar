@@ -69,13 +69,10 @@
     right: -30px;
     height:500px;
     width: 400px;
-}
-
-
-.blog_background {
     display: flex;
     flex-direction: column;
 }
+
 
 .center_button{
     text-align: center;
@@ -224,9 +221,10 @@ p.arrow{
     }
 
     .blog_background {
-        width:100%;
-        display: flex;
-        flex-direction: column;
+            width:100%;
+            display: flex;
+            flex-direction: column;
+            right:.5%;
     }
     
 

@@ -23,10 +23,10 @@ border-radius: 0px;
   
 }
 
-/* .download_text {
-  margin-right: 9rem;
-  margin-left: 9rem;
-} */
+.download_text {
+  margin-right: 15rem;
+  margin-left: 0rem;
+}
 
 .download_text p {
   margin-top: 1rem;
@@ -96,7 +96,7 @@ border-radius: 0px;
       left: 135px;
       top: 2318px;
       border-radius: 0px;
-      margin-left: 2.5rem;
+      /* margin-left: 2.5rem; */
       margin-bottom: 2rem;
   }
 
@@ -144,8 +144,8 @@ border-radius: 0px;
 
     .download_background {
         /* background-color: #ccc; */
-        height: 400px;
-        width: 500px;
+        height: 250px;
+        width: 350px;
         left: 135px;
         top: 2318px;
         border-radius: 0px;
@@ -188,9 +188,9 @@ border-radius: 0px;
 
 @media screen and (max-width: 480px){
     .download {
-        display: flex;
+        /* display: flex;
         flex-direction: column;
-        /* align-items: center; */
+        align-items: center; */
     }
 
     .download_content {
