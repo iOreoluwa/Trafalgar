@@ -96,7 +96,7 @@
         left: 135px;
         top: 2318px;
         border-radius: 0px;
-        margin-left: 2.03rem
+        /* margin-left: 2.03rem */
     }
 
     .provider_text{
@@ -192,6 +192,7 @@
 @media screen and (max-width: 480px){
     .provider {
         flex-direction: column;
+        justify-content: center;
     }
 
     .provider_content {

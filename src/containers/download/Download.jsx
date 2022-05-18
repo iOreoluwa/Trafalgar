@@ -9,13 +9,13 @@ const Download = () => {
       <div className="download_content">
         <div className="download_text">
           <h1 className="title_two">
-          Download our <br />mobile apps
+            Download our <br />mobile apps
           </h1>
           {/* <hr className="horizontal-rule"/> */}
           <p className="text">
-          Our dedicated patient engagement app and <br />
-web portal allow you to access information <br /> instantaneously (no tedeous form, long calls, <br /> 
-or administrative hassle) and securely
+            Our dedicated patient engagement app and <br />
+            web portal allow you to access information <br /> instantaneously (no tedeous form, long calls, <br /> 
+            or administrative hassle) and securely
           </p>
           <div>
             <button className='button'>Learn More</button>
